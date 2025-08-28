@@ -1,0 +1,54 @@
+📐 Design Specs
+Navbar
+
+Background: #1E293B (dark navy)
+
+Text color: white
+
+Padding: 16px 32px
+
+Links spaced with 20px gap
+
+Hero Section (below navbar)
+
+Display: flex (two columns: text + image)
+
+Background: #f8fafc (light gray)
+
+Padding: 60px 80px
+
+Left Column (Text)
+
+Heading:
+
+Font size: 32px
+
+Color: #1E293B
+
+Margin-bottom: 16px
+
+Paragraph:
+
+Font size: 16px
+
+Color: #475569
+
+Margin-bottom: 20px
+
+Button:
+
+Background: #2563EB
+
+Color: white
+
+Padding: 12px 24px
+
+Border-radius: 6px
+
+Hover: darker blue (#1E40AF)
+
+Right Column (Image)
+
+Placeholder image: 400px wide
+
+Centered vertically

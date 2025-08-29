@@ -1,0 +1,85 @@
+🎨 Project Idea: Centered Login Form
+
+A simple card in the middle of the page with:
+
+A title ("Login")
+
+Input fields for Email + Password
+
+A login button
+
+A small "Forgot Password?" link
+
+📐 Design Specs
+
+Container (form card)
+
+Width: 320px
+
+Background: #ffffff
+
+Padding: 24px
+
+Border-radius: 12px
+
+Box-shadow: 0 4px 6px rgba(0,0,0,0.1)
+
+Centered with flexbox
+
+Title (h2)
+
+Font size: 20px
+
+Font weight: bold
+
+Color: #1E293B
+
+Margin-bottom: 16px
+
+Text-align: center
+
+Inputs (email & password)
+
+Width: 100%
+
+Padding: 10px
+
+Border: 1px solid #CBD5E1
+
+Border-radius: 6px
+
+Font-size: 14px
+
+Margin-bottom: 12px
+
+Focus state: border #2563EB
+
+Button
+
+Background: #2563EB
+
+Color: #fff
+
+Padding: 10px
+
+Border-radius: 6px
+
+Width: 100%
+
+Font-size: 14px
+
+Cursor: pointer
+
+Hover: #1E40AF
+
+Link (Forgot password)
+
+Font-size: 12px
+
+Color: #2563EB
+
+Display: block
+
+Text-align: right
+
+Margin-top: 8px

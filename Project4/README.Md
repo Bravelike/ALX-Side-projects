@@ -1,4 +1,4 @@
-# Project 3 - Login Page
+# Project 4 - Pricing Table
 
 ## Description
 A Product Pricing Table project for me to practice:

@@ -1,0 +1,83 @@
+📐 Design Specs
+
+Section
+
+Background: #f8fafc
+
+Padding: 60px 40px
+
+Text centered
+
+Heading
+
+Font-size: 28px
+
+Color: #1E293B
+
+Margin-bottom: 8px
+
+Subheading
+
+Font-size: 16px
+
+Color: #64748B
+
+Margin-bottom: 40px
+
+Cards Container
+
+Display: flex (or grid)
+
+Gap between cards: 20px
+
+Max-width: 1000px
+
+Margin: 0 auto (to center container)
+
+Card
+
+Background: #fff
+
+Border: 1px solid #E2E8F0
+
+Border-radius: 12px
+
+Padding: 24px
+
+Width: 100% (so they stretch evenly)
+
+Text-align: center
+
+Box-shadow on hover
+
+Featured Card (Middle One)
+
+Border-color: #2563EB
+
+Box-shadow: 0 4px 6px rgba(0,0,0,0.1)
+
+Slightly scaled up with transform: scale(1.05) on hover
+
+Price
+
+Font-size: 24px
+
+Font-weight: bold
+
+Color: #1E293B
+
+Margin: 16px 0
+
+Button
+
+Background: #2563EB
+
+Color: #fff
+
+Border-radius: 6px
+
+Padding: 10px 20px
+
+Display: inline-block
+
+Hover: darker blue

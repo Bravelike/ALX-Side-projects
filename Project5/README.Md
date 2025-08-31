@@ -24,7 +24,7 @@ Claude Generated UI :
 ![Screenshot 1](./images/Profile%20Card%20UI.png )
 
 My Submission :
-![Screenshot 2](./images/Screenshot%202025-08-31%20at%2020-15-32%20Document.png)
+![Screenshot 2](./images/My%20Submission.png)
 
 ## Technologies Used
 - HTML

@@ -1,0 +1,52 @@
+:root {
+    /* Primary Colors */
+    --primary-blue: #667eea;
+    --secondary-purple: #764ba2;
+    --accent-red: #ff6b6b;
+    --accent-yellow: #feca57;
+
+    /* Text Colors */
+    --dark-text: #333;
+    --medium-text: #666;
+    --light-text: #777;
+
+    /* Background */
+    --white: #ffffff;
+    --light-blue: #e3f2fd;
+}
+
+:root {
+    /* Font Settings */
+    --font-family: 'Arial', sans-serif;
+
+    /* Font Sizes */
+    --h1-size: 28px;
+    --title-size: 16px;
+    --bio-size: 14px;
+    --button-size: 14px;
+
+    /* Font Weights */
+    --bold: 700;
+    --normal: 400;
+    --semibold: 600;
+
+    /* Line Heights */
+    --bio-line-height: 1.6;
+}
+
+:root {
+    /* Consistent spacing */
+    --space-small: 8px;
+    --space-medium: 15px;
+    --space-large: 20px;
+    --space-xlarge: 30px;
+
+    /* Card dimensions */
+    --card-max-width: 400px;
+    --card-radius: 20px;
+    --card-padding-desktop: 30px;
+    --card-padding-mobile: 20px;
+}
+
+
+

@@ -1,0 +1,50 @@
+:root {
+    --primary-brown: #8B4513;
+    /* Main brand color */
+    --dark-brown: #5D2E0A;
+    /* Dark accents */
+    --cream: #F5F5DC;
+    /* Light background */
+    --gold: #DAA520;
+    /* Accent highlights */
+    --dark-text: #2C1810;
+    /* Primary text */
+    --light-text: #6B4423;
+    /* Secondary text */
+    --white: #FFFFFF;
+    /* Pure white */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav {
+    background-color: var(--cream);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 5%;
+    width: 100%;
+}
+.logo {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: var(--primary-brown);
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+
+.nav-links a {
+    text-decoration: none;
+}

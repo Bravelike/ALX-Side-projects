@@ -1,10 +1,10 @@
 :root {
-    --primary-brown: #8B4513;    /* Main brand color */
-    --dark-brown: #5D2E0A;       /* Dark accents */
+    --primary-brown: rgb(140, 69, 18);    /* Main brand color */
+    --dark-brown: rgb(93, 46, 10);       /* Dark accents */
     --cream: #F5F5DC;            /* Light background */
-    --gold: #DAA520;             /* Accent highlights */
-    --dark-text: #2C1810;        /* Primary text */
-    --light-text: #6B4423;       /* Secondary text */
+    --gold: #daa520;             /* Accent highlights */
+    --dark-text: #2c1810;        /* Primary text */
+    --light-text: #6b4423;       /* Secondary text */
     --white: #FFFFFF;            /* Pure white */
 }
 

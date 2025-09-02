@@ -39,7 +39,9 @@ Claude Generated UI:
 ![Screenshot 1](./Screenshot%202025-09-01%20at%2021-30-34%20Coffee%20Shop%20Landing%20Page%20-%20Week%202%20Project%20Claude%20Claude.png )
 
 My Submission :
-In Progresss
+![Screenshot 2](./My%20first%20submission.png)
+
+Still in Progresss
 
 
 ## Technologies Used
@@ -58,5 +60,8 @@ I really dont know how to do that in a multilayer repository.
 ## Comment:
 Today was a very busy day so i didnt have much time to code.
 I will continue tomorrow.
+
+02-09-2025:
+Wasnt really busy today just lacked energy, but i completed the first page, i was working on the second page and realized i needed to learn grid or claude wanted me to learn css grid through the project so i'm going to spend the night studying on grid and hopefully complete the whole project by dawn tomorrow.
 
 Vibes and Inshallah.

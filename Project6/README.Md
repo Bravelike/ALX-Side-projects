@@ -42,7 +42,7 @@ My Submission :
 ![Screenshot 2](./My%20first%20submission.png)
 
 Submission 2: 
-![Screenshot 2](./Full%20page%20submission%20Coffee%20Landing%20Page.png)
+![Screenshot 2](./Fullpage%20submission%20.png)
 
 
 Still in Progresss

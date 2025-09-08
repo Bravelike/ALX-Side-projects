@@ -22,17 +22,21 @@
 }
 
 body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia,  serif;
+    line-height: 1.6;
+    overflow-x: hidden;
 }
 
 nav {
-    background-color: var(--cream);
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 1rem 5%;
     width: 100%;
     position: fixed;
+    top: 0;
 }
 .logo {
     font-size: 1.8rem;
@@ -43,12 +47,13 @@ nav {
 .nav-links {
     display: flex;
     list-style: none;
-    gap: 30px;
+    gap: 2rem;
 }
 
 .nav-links a {
     text-decoration: none;
     color: var(--dark-brown);
+    font-weight: 500;
 }
 
 .hero-section {
@@ -78,16 +83,122 @@ nav {
 .intro-section p {
     font-size: 1.2rem;
     color: var(--white);
+    margin-bottom: 2rem;
+    line-height: 1.6;
 }
+
+
+.btn-warning {
+    background-color: var(--gold);
+    font-size: 1.1rem;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 50px;
+    font-weight: bold;
+    color: var(--dark-brown);
+    font-family: inherit;
+    transition: all 0.3s ease;
+    transform: rotateX('180');
+    cursor: pointer;
+}
+.btn-warning:hover {
+    transform: translateY(-4px);
+    background-color:#FFD700; 
+    box-shadow: 0 8px 25px rgba(0,0,0,00.3);
+}
+
+
 
 .card-section {
     height: 100vh;
     background-color: var(--cream);
+    padding: 80px 5%;
 }
 
-.card-section .heading {
+.card-section, .page-2 .heading {
     color: var(--primary-brown);
     font-size: 2.5rem;
-    margin-bottom: 1.5rem;
+    margin-bottom: 3rem;
+    text-align: center;
 }
 
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    
+}
+
+.card-container .cards {
+    padding: 2.5rem;
+    background-color: var(--white);
+    border-radius: 15px;
+    text-align: center;
+}
+
+.cards .card-image {
+    font-size: 3.5rem;
+    margin-bottom: 30px;
+}
+
+.cards h3 {
+    font-size: 1.4rem;
+    color: var(--primary-brown);
+    margin-bottom: 25px;
+}
+
+.cards p {
+    font-size: 1rem;
+    color: var(--light-text);
+    line-height: 1.6;
+}
+
+.page-2 {
+    height: 100vh;
+    background-color: var(whit);
+    padding: 80px 5%;
+}
+
+.menu-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    gap: 2rem;
+    margin: 0 auto;
+    
+}
+.menu-container .menu-cards {
+    padding: 2rem;
+    background-color: var(--cream);
+    max-width: 300px;
+    min-width: 250px;
+    height: 250px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.page-2 .card-image {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.page-2 h3 {
+    color: var(--dark-text);
+}
+
+.page-2 p {
+    margin-top: 0;
+}
+.page-2 h4 {
+    font-size: 1.3rem;
+    color: var(--primary-brown);
+}
+
+footer {
+    height: 50vh;
+    background-color: var(--primary-brown);
+    width: 100%;
+}

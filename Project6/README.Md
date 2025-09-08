@@ -41,6 +41,10 @@ Claude Generated UI:
 My Submission :
 ![Screenshot 2](./My%20first%20submission.png)
 
+Submission 2: 
+![Screenshot 2](./Full%20page%20submission%20Coffee%20Landing%20Page.png)
+
+
 Still in Progresss
 
 
@@ -63,5 +67,9 @@ I will continue tomorrow.
 
 02-09-2025:
 Wasnt really busy today just lacked energy, but i completed the first page, i was working on the second page and realized i needed to learn grid or claude wanted me to learn css grid through the project so i'm going to spend the night studying on grid and hopefully complete the whole project by dawn tomorrow.
+
+
+08-09-2025:
+Didnt come back tomorrow like i said, i have been sick, but i'm better, so today i work on the remaining pages, not really pages i should call it section, completed the visuals but i still need to add some modifications like transition, transform and hovers to multiple section, that i promise to do tomorrow.
 
 Vibes and Inshallah.

@@ -72,4 +72,8 @@ Wasnt really busy today just lacked energy, but i completed the first page, i wa
 08-09-2025:
 Didnt come back tomorrow like i said, i have been sick, but i'm better, so today i work on the remaining pages, not really pages i should call it section, completed the visuals but i still need to add some modifications like transition, transform and hovers to multiple section, that i promise to do tomorrow.
 
+
+09-09-2025:
+Completed.
+
 Vibes and Inshallah.
